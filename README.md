@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kimbackdoo&hide=stars&count_private=true&show_icons=true&theme=gruvbox" />
- 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbackdoo&hide=php&layout=compact" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimbackdoo&hide=stars&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbackdoo&hide=php&layout=compact" />
+</a>
 
 <div align="right">
 
