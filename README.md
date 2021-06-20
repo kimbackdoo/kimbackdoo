@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimbackdoo&count_bg=%23C7796B&title_bg=%236C6C6C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbackdoo)](https://github.com/kimbackdoo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbackdoo&show_icons=true&theme=radical)](https://github.com/kimbackdoo/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbackdoo)](https://github.com/kimbackdoo/kimbackdoo)
