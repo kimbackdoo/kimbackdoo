@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 ## 나연
 <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmonguu&theme=flag-india&show_icons=true" />
- <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=kmonguu" width="300" />
+ <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=kmonguu" width="350" />
 </div>
