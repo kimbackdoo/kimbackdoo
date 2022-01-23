@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 ## 나연
 <div align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmonguu&theme=flag-india&show_icons=true" />
- </a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmonguu&theme=flag-india&show_icons=true" />
  <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=kmonguu" />
 </div>
