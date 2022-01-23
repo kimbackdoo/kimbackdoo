@@ -34,7 +34,5 @@ Here are some ideas to get you started:
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmonguu&theme=flag-india&show_icons=true" />
  </a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=kmonguu" />
- </a>
+ <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=kmonguu" />
 </div>
